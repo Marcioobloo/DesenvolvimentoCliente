@@ -1,0 +1,14 @@
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\bin\Debug\net8.0\Situacao.exe
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\bin\Debug\net8.0\Situacao.deps.json
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\bin\Debug\net8.0\Situacao.runtimeconfig.json
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\bin\Debug\net8.0\Situacao.dll
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\bin\Debug\net8.0\Situacao.pdb
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\obj\Debug\net8.0\Situacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\obj\Debug\net8.0\Situacao.AssemblyInfoInputs.cache
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\obj\Debug\net8.0\Situacao.AssemblyInfo.cs
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\obj\Debug\net8.0\Situacao.csproj.CoreCompileInputs.cache
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\obj\Debug\net8.0\Situacao.dll
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\obj\Debug\net8.0\refint\Situacao.dll
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\obj\Debug\net8.0\Situacao.pdb
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\obj\Debug\net8.0\Situacao.genruntimeconfig.cache
+C:\Users\GOLDENTEC\OneDrive\Documentos\Área de Trabalho\projetos\_SENAI2\Situacao\obj\Debug\net8.0\ref\Situacao.dll
